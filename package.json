@@ -1,0 +1,17 @@
+{
+  "name": "auto-random-swap",
+  "version": "1.0.0",
+  "description": "Script auto random swap token menggunakan ethers.js dan dotenv",
+  "type": "module",
+  "scripts": {
+    "start": "node run.js"
+  },
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.13.5",
+    "figlet": "^1.8.1",
+    "gradient-string": "^3.0.0",
+    "ora": "^8.2.0"
+  }
+}
